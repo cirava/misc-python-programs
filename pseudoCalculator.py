@@ -1,3 +1,5 @@
+#This is really over-engineered and would have been easier with a while loop, but this was made before I learned while
+#loops in my class, so here is something that could probably be under 30 lines long that is 50 lines long. Oh well.
 print("Welcome to the Python Pseudo Calculator™!")
 num1 = int(input("Enter a number: "))
 num2 = int(input("Enter another number: "))
